@@ -1,0 +1,14 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
+
+Route::get('/', [PageController::class, 'login'])->name('login');
+
+Route::post('/dashboard', [PageController::class, 'dashboard'])->name('dashboard');
+
+Route::get('/dashboard', [PageController::class, 'dashboard'])->name('dashboard.back');
+
+Route::get('/profile', [PageController::class, 'profile'])->name('profile');
+
+Route::get('/pengelolaan', [PageController::class, 'pengelolaan'])->name('pengelolaan');
