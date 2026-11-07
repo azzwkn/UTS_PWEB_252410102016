@@ -11,5 +11,16 @@ Pawly Pet Clinic adalah website sederhana bertema klinik hewan yang dibuat mengg
 - Tailwind CSS
 - HTML
 
+Screenshot Website
 
+1. Login
+![Login](screenshots/login.png)
 
+2. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+3. Profile
+![Profile](screenshots/profile.png)
+
+4. Pengelolaan
+![Pengelolaan](screenshots/pengelolaan.png)
