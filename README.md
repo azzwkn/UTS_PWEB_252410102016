@@ -26,3 +26,7 @@ Profile
 
 Pengelolaan
 ![Pengelolaan](screenshots/pengelolaan.png)
+
+## Video Demo
+Link video penjelasan dan demo project Pawly Pet Clinic:
+[https://youtu.be/YAAoZNoUzs4]
