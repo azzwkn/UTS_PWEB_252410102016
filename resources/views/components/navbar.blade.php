@@ -12,8 +12,9 @@
             Profile
         </a>
 
-        <a href="{{ route('pengelolaan') }}" class="hover:text-[#5b8fa8]">
+        <a href="{{ route('pengelolaan', ['username' => request('username')]) }}" class="hover:text-[#5b8fa8]">
             Pengelolaan
         </a>
+
     </div>
 </nav>
